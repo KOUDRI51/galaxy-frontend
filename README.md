@@ -1,1 +1,2 @@
-# galaxy-frontend
+# Galaxy-frontend
+Galaxy frontend
